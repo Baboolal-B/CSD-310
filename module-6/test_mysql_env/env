@@ -1,0 +1,4 @@
+USER=root
+PASSWORD=Smokey@1512!
+HOST=localhost
+DATABASE=movies
